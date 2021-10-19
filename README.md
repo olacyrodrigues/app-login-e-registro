@@ -6,7 +6,8 @@
  <a href="#Sobre o projeto">Sobre</a> •
  <a href="#Status">Status</a> • 
  <a href="#Imagens">Imagens</a> • 
- <a href="#Funcionalidades">Funcionalidades</a> • 
+ <a href="#Funcionalidades">Funcionalidades</a> •
+  <a href="#Tecnologias">Tecnologias</a> •
  <a href="#Pré-requisitos">Pré-requisitos</a> • 
  <a href="#autor">Autor</a>
 </p>
@@ -34,6 +35,12 @@ onde ao realizar o login ele consiga ter acesso a uma página do banco de dados 
  - [x] Cadastro
  - [x] Supervisão em tempo real de usuários cadastrados.
 
+
+# Tecnlogias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Flutter](https://flutter.dev/?gclid=CjwKCAjw2bmLBhBREiwAZ6ugo_1dtp_S-ALkQhR223ttb8ur99HoShnPXAUwhizVR-hhpSO28BeMgRoCXe4QAvD_BwE&gclsrc=aw.ds)
 
 # Pré-requisitos
 
